@@ -13,5 +13,5 @@ Watch my *[Demo Videos!](https://drive.google.com/drive/folders/1T6Q9RMnU8vpusJp
   * data structure
 * [stanCodoshop](https://github.com/Howard1209/MystanCodeProjects/blob/main/stanCode_Projects/stanCodoshop/stanCodoshop.py)
   * image processing
-* [weather_master](https://github.com/Howard1209/MystanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
+* [Weather_master](https://github.com/Howard1209/MystanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
   * python semantics & syntax
